@@ -1,0 +1,17 @@
+M01: Disgruntled Employee 
+Description – This profile details an insider who, driven by personal grievance against their employer, acts with deliberate malicious intent from within a position of legitimate access. The disgruntled employee does not exploit a technical vulnerability — they exploit trust. Their access is authorized, their presence is expected, and their knowledge of internal systems, processes, and people makes them uniquely dangerous. The harm they cause is rarely impulsive; it is the product of accumulated resentment that has crossed a threshold, converting a once-productive employee into an active threat.
+Psychology – The psychological trajectory of the disgruntled insider is rarely sudden. It develops along a continuum — from perceived injustice to emotional withdrawal, and eventually to a decision to act. Common catalysts include denied promotions, termination notices, disciplinary actions, interpersonal conflicts with management, feelings of being undervalued, or a belief that the organization has treated them unfairly. Over time, these feelings compound into resentment, helplessness, and in some cases a desire for retaliation or revenge.
+Example – A senior user working for ducks co was passed on a promotion 3 months ago. The user has been vocal about how upset they are and begin putting less time into work projects. Next they call out sick during an important zoom call. The user then begins to think of ways to steal their coworkers password. They tell their coworker that their manager needed a copy of their current password to check something. With intentions to sell the password to a telegram connection they save the pw and open notepad and paste the pw.  
+Insider Threat Technical Tactics:
+Suspicious File System Activity 
+Bulk Delete Files
+Malicious Changes to Application/System
+Insider Trading Violations
+Use of Offensive/Malicious Tools
+Tampering with Physical Security Devices
+Modify/Delete Logs
+Suspicious Account activity 
+Activity Outside of Normal Hours
+Activity Outside of Normal Scope
+Suspicious Internet Activity  
+
