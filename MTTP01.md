@@ -7,7 +7,13 @@
 ### The intentional deletion of critical files or the unauthorized wiping of devices can have severe consequences for business operations, causing financial loss, reputational damage, and operational delays. Insiders with knowledge of sensitive data locations or device management systems can exploit their access to maliciously delete files, wipe devices, or disrupt business continuity. Monitoring and mitigating these activities is essential to protect company assets.
 
 [Proof of concept script - Linux](https://github.com/djrk01/windowsattackstuff/blob/main/oops.sh)
+<br>
+<br>
 https://github.com/KhalsaAnonymous/Bulk-File-Deleter
+<br>
+<br>
+https://github.com/8/MFilesDeleter
+
 
 Detection:
 
