@@ -11,6 +11,6 @@ Where traditional threat frameworks focus on external adversaries, ITTF centers 
 
 ### | [M03](https://example.com) | [C2](https://example.com) | [C3](https://example.com) | [C4](https://example.com) 
 
-### | [MTTP01-Deletion](https://example.com) | [D2](https://example.com) | [D3](https://example.com) | [D4](https://example.com) 
+### | [MTTP01-Mass Deletion](https://github.com/borichthekid92-star/Advanced_Insider_Threat_Profile_Framework/blob/main/MTTP01.md) | [D2](https://example.com) | [D3](https://example.com) | [D4](https://example.com) 
 
 ### | [MTTP02-Exfiltratino](https://example.com) | [D2](https://example.com) | [D3](https://example.com) | [D4](https://example.com) 
