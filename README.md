@@ -6,7 +6,7 @@ xxxWhere traditional threat frameworks focus on external adversaries, AITPF cent
 # Advanced Insider Threat Profile Matrix 
 
 ##  | Malicious | Compromised | Negligent | Other 
-### | [M01-Disgruntled Worker](https://github.com/borichthekid92-star/Advanced_Insider_Threat_Profile_Framework/blob/main/M01.md) | [C01-Corporate Spy](https://example.com) | [N01-Lazy Tech](https://example.com) | [O1-Compulsive](https://example.com) 
+### | [M01-Disgruntled Worker](https://github.com/borichthekid92-star/Advanced_Insider_Threat_Profile_Framework/blob/main/M01.md) | [C01-Corporate Spy](https://github.com/borichthekid92-star/Advanced_Insider_Threat_Profile_Framework/blob/main/C01.md) | [N01-Lazy Tech](https://example.com) | [O1-Compulsive](https://example.com) 
 
 ### | [M02-Underskilled](https://example.com) | [C02-Developer](https://example.com) | [C02-Unaware Worker](https://example.com) | [B4](https://example.com) 
 
