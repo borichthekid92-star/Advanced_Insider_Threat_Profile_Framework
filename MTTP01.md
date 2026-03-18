@@ -1,4 +1,4 @@
-# Bulk Delete Files
+# Mass Deletion
 ## Platform: Linux / Mac / Mobile / Windows
 
 ## Permissions Required: Non Admin (Admin for sensitive files)
