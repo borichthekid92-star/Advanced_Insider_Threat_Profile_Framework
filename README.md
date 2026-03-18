@@ -5,7 +5,7 @@ Where traditional threat frameworks focus on external adversaries, ITTF centers 
 
 #  | Malicious | Compromised | Negligent | Other 
 
-### | [M01-Disgruntled Worker](https://example.com) | [C01-Corporate Spy](https://example.com) | [A3](https://example.com) | [A4](https://example.com) 
+### | [M01-Disgruntled Worker](https://github.com/borichthekid92-star/Advanced_Insider_Threat_Profile_Framework/blob/main/M01.md) | [C01-Corporate Spy](https://example.com) | [A3](https://example.com) | [A4](https://example.com) 
 
 ### | [M02-Malicious Dev/IT](https://example.com) | [B2](https://example.com) | [B3](https://example.com) | [B4](https://example.com) 
 
