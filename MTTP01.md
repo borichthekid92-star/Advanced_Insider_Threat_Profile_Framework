@@ -3,6 +3,8 @@
 
 ## Permissions Required: Non Admin (Admin for sensitive files)
 ## ID: MTTD01
+## Seen: Running tool with system user, downloaded tool in strange location, running off hours, running as schtask or cron 
+## Look For: Clearing of recycle bin, deletion of tool, 
 
 ### The intentional deletion of critical files or the unauthorized wiping of devices can have severe consequences for business operations, causing financial loss, reputational damage, and operational delays. Insiders with knowledge of sensitive data locations or device management systems can exploit their access to maliciously delete files, wipe devices, or disrupt business continuity. Monitoring and mitigating these activities is essential to protect company assets.
 
